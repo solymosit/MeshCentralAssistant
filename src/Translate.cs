@@ -322,7 +322,7 @@ namespace MeshAssistant
                 {"ko","이벤트 표시 (& E) ..."},
                 {"it","Mostra eventi..."},
                 {"ru","Показать и события ..."},
-                {"hu","Események megjelenítése"}
+                {"hu","Események megjelenítése..."}
             }
         },
         {
@@ -1124,7 +1124,7 @@ namespace MeshAssistant
                 {"ko","카운트"},
                 {"it","Contare"},
                 {"ru","Считать"},
-                {"hu","Darab"}
+                {"hu","Kapcsolatok száma"}
             }
         },
         {
